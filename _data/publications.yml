@@ -3,7 +3,8 @@
     - {name: ''}
 
   journal_articles_and_proceedings:
-    - {name: '<b> He, Muxuan </b>, & Elsi Kaiser. 2025. “Communication form modulates sentence interpretation: (A)typicality inferences from descriptions vs. direct speech.” To appear in CogSci 2025 Proceedings.'}
+    - {name: '<b> He, Muxuan </b>, & Elsi Kaiser. 2025. “Communication form modulates sentence interpretation: (A)typicality inferences from descriptions vs. direct speech.” To appear in CogSci 2025 Proceedings.',
+    url: 'https://osf.io/w2ksx'}
     - {name: '<b> He, Muxuan </b>, Elsi Kaiser, & Khalil Iskarous. 2025. “Modeling sentence polarity asymmetries: Fuzzy interpretations in a possibly wonky world.” To appear in ACL 2025 Proceedings.'}
     - {name: '<b> He, Muxuan </b>, Elsi Kaiser, & Khalil Iskarous. 2025. “Modeling sentence polarity asymmetries: Fuzzy interpretations in a possibly wonky world.” <i> Society for Computation in Linguistics </i> 8(1): 22. doi: https://doi.org/10.7275/scil.3180.',
     url: 'https://openpublishing.library.umass.edu/scil/article/id/3180/'}
