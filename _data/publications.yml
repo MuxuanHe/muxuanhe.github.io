@@ -9,9 +9,9 @@
     url: 'https://openpublishing.library.umass.edu/scil/article/id/3180/'}
     - {name: '<b> He, Muxuan </b>, & Elsi Kaiser. 2025. “Affirmatives vs. Negatives: A complementary relation in probabilistic sentence processing.” To appear in Proceedings of Chicago Linguistic Society 58.', 
     url: 'https://osf.io/h546v'}
-    - {name: 'Hao, Hailin, <b> Muxuan He </b>, & Zuzanna Fuchs. 2024. “Greta is a female director: When gender stereotypes interact with informativity expectations.” In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 46).', 
+    - {name: 'Hao, Hailin, <b> Muxuan He </b>, & Zuzanna Fuchs. 2024. “Greta is a female director: When gender stereotypes interact with informativity expectations.” In <i> Proceedings of the Annual Meeting of the Cognitive Science Society</i> (Vol. 46).', 
     url: 'https://escholarship.org/content/qt49d0685w/qt49d0685w_noSplash_3d424091a761f8d27004dad318da3f5c.pdf'}
-    - {name: 'Hao, Hailin, & <b> Muxuan He </b>. 2023. Can Large Language Model Surprisal Capture the Informativity Bias in Human Language Processing?. In International Symposium on Distributed Computing and Artificial Intelligence (pp. 178-185).', 
+    - {name: 'Hao, Hailin, & <b> Muxuan He </b>. 2023. Can Large Language Model Surprisal Capture the Informativity Bias in Human Language Processing?. <i> International Symposium on Distributed Computing and Artificial Intelligence </i> (pp. 178-185).', 
     url: 'https://link.springer.com/chapter/10.1007/978-3-031-38318-2_18'}
     
   conference_presentations:
@@ -20,23 +20,23 @@
       # title_url: ''
       additional_author: 'with Elsi Kaiser'
       #additional_author_url: ''
-      conference_name: 'CogSci 2025. San Francisco, USA.'
-      presentation_type: 'Talk'
+      conference_name: 'CogSci 2025. San Francisco, USA'
+      presentation_type: '<b>Talk</b>'
       
     - date: '2025'
       title: 'Modeling sentence polarity asymmetries: Fuzzy interpretations in a possibly wonky world'
       # title_url: ''
       additional_author: 'with Elsi Kaiser and Khalil Iskarous'
       #additional_author_url: ''
-      conference_name: 'Society for Computation in Linguistics. Oregon, USA.'
-      presentation_type: 'Talk'
+      conference_name: 'Society for Computation in Linguistics. Oregon, USA'
+      presentation_type: '<b>Talk</b>'
       
     - date: '2025'
       title: 'Modeling Pragmatic Accommodation:A [Rational, Irrational] Speaker in a [Wonky, Normal] World'
       # title_url: ''
       additional_author: 'with Elsi Kaiser and Khalil Iskarous'
       #additional_author_url: ''
-      conference_name: 'Workshop on Cognitive Modeling and Computational Linguistics (CMCL). NAACL, New Mexico, USA.'
+      conference_name: 'Workshop on Cognitive Modeling and Computational Linguistics (CMCL). NAACL, New Mexico, USA'
       presentation_type: 'Virtual Poster'
 
     - date: '2025'
@@ -44,7 +44,7 @@
       # title_url: ''
       additional_author: 'with Elsi Kaiser'
       #additional_author_url: ''
-      conference_name: 'Human Sentence Processing (HSP) 2025. University of Maryland.'
+      conference_name: 'Human Sentence Processing (HSP) 2025. University of Maryland'
       presentation_type: 'Poster'
       
     - date: '2024'
@@ -52,23 +52,23 @@
       # title_url: ''
       additional_author: 'with Elsi Kaiser'
       #additional_author_url: ''
-      conference_name: 'Chicago Linguistic Society 58. University of Chicago.'
-      presentation_type: 'Talk'
+      conference_name: 'Chicago Linguistic Society 58. University of Chicago'
+      presentation_type: '<b>Talk</b>'
 
     - date: '2023'
       title: 'How informative do we need to be? Asymmetry effects of informativity in the processing of affirmative and negative sentences'
       title_url: 'https://osf.io/u6gyv'
       additional_author: 'with Elsi Kaiser'
       #additional_author_url: ''
-      conference_name: 'AMLaP 2023'
-      presentation_type: 'Talk'
+      conference_name: 'AMLaP 2023. San Sebastián, Spain'
+      presentation_type: '<b>Talk</b>'
 
     - date: '2023'
       title: 'Can Large Language Model Surprisal Capture the Informativity Bias in Human Language Processing?'
       title_url: 'https://osf.io/w3vds'
       additional_author: 'with Hailin Hao'
       #additional_author_url: ''
-      conference_name: 'AMLaP 2023. San Sebastián, Spain.'
+      conference_name: 'AMLaP 2023. San Sebastián, Spain'
       presentation_type: 'Poster'
 
     - date: '2023'
@@ -84,7 +84,7 @@
       # title_url: ''
       # additional_author: ' '
       #additional_author_url: ' '
-      conference_name: 'NWAV Asia-Pacific7. Bangkok, Thailand.'
-      presentation_type: 'Talk'
+      conference_name: 'NWAV Asia-Pacific7. Bangkok, Thailand'
+      presentation_type: '<b>Talk</b>'
 
     
