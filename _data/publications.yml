@@ -5,7 +5,7 @@
   journal_articles_and_proceedings:
     - {name: '<b> He, Muxuan </b>, & Elsi Kaiser. 2025. “Communication form modulates sentence interpretation: (A)typicality inferences from descriptions vs. direct speech.” To appear in CogSci 2025 Proceedings.'}
     - {name: '<b> He, Muxuan </b>, Elsi Kaiser, & Khalil Iskarous. 2025. “Modeling sentence polarity asymmetries: Fuzzy interpretations in a possibly wonky world.” To appear in ACL 2025 Proceedings.'}
-    - {name: '<b> He, Muxuan </b>, Elsi Kaiser, & Khalil Iskarous. 2025. “Modeling sentence polarity asymmetries: Fuzzy interpretations in a possibly wonky world.” </i> Society for Computation in Linguistics <i> 8(1): 22. doi: https://doi.org/10.7275/scil.3180.',
+    - {name: '<b> He, Muxuan </b>, Elsi Kaiser, & Khalil Iskarous. 2025. “Modeling sentence polarity asymmetries: Fuzzy interpretations in a possibly wonky world.” <i> Society for Computation in Linguistics </i> 8(1): 22. doi: https://doi.org/10.7275/scil.3180.',
     url: 'https://openpublishing.library.umass.edu/scil/article/id/3180/'}
     - {name: '<b> He, Muxuan </b>, & Elsi Kaiser. 2025. “Affirmatives vs. Negatives: A complementary relation in probabilistic sentence processing.” To appear in Proceedings of Chicago Linguistic Society 58.', 
     url: 'https://osf.io/h546v'}
@@ -15,12 +15,44 @@
     url: 'https://link.springer.com/chapter/10.1007/978-3-031-38318-2_18'}
     
   conference_presentations:
+    - date: '2025'
+      title: 'Communication form modulates sentence interpretation: (A)typicality inferences from descriptions vs. direct speech'
+      # title_url: ''
+      additional_author: 'with Elsi Kaiser'
+      #additional_author_url: ''
+      conference_name: 'CogSci 2025. San Francisco, USA.'
+      presentation_type: 'Talk'
+      
+    - date: '2025'
+      title: 'Modeling sentence polarity asymmetries: Fuzzy interpretations in a possibly wonky world'
+      # title_url: ''
+      additional_author: 'with Elsi Kaiser and Khalil Iskarous'
+      #additional_author_url: ''
+      conference_name: 'Society for Computation in Linguistics. Oregon, USA.'
+      presentation_type: 'Talk'
+      
+    - date: '2025'
+      title: 'Modeling Pragmatic Accommodation:A [Rational, Irrational] Speaker in a [Wonky, Normal] World'
+      # title_url: ''
+      additional_author: 'with Elsi Kaiser and Khalil Iskarous'
+      #additional_author_url: ''
+      conference_name: 'Workshop on Cognitive Modeling and Computational Linguistics (CMCL). NAACL, New Mexico, USA.'
+      presentation_type: 'Virtual Poster'
+
+    - date: '2025'
+      title: 'What’s described vs. what’s uttered: Communication form modulates effects of typicality'
+      # title_url: ''
+      additional_author: 'with Elsi Kaiser'
+      #additional_author_url: ''
+      conference_name: 'Human Sentence Processing (HSP) 2025. University of Maryland.'
+      presentation_type: 'Poster'
+      
     - date: '2024'
       title: 'Affirmatives vs. Negatives: A complementary relation in probabilistic sentence processing'
       # title_url: ''
       additional_author: 'with Elsi Kaiser'
       #additional_author_url: ''
-      conference_name: 'Chicago Linguistic Society 58'
+      conference_name: 'Chicago Linguistic Society 58. University of Chicago.'
       presentation_type: 'Talk'
 
     - date: '2023'
@@ -36,7 +68,7 @@
       title_url: 'https://osf.io/w3vds'
       additional_author: 'with Hailin Hao'
       #additional_author_url: ''
-      conference_name: 'AMLaP 2023'
+      conference_name: 'AMLaP 2023. San Sebastián, Spain.'
       presentation_type: 'Poster'
 
     - date: '2023'
@@ -45,14 +77,14 @@
       additional_author: 'with Elsi Kaiser'
       #additional_author_url: ' '
       conference_name: 'HSP 2023'
-      presentation_type: 'Poster'
+      presentation_type: 'Virtual poster'
 
     - date: '2022'
       title: '<i> -men </i> or not <i> -men </i> (Chinese plural marker): It does not seem to be a question'
       # title_url: ''
       # additional_author: ' '
       #additional_author_url: ' '
-      conference_name: 'NWAV Asia-Pacific7'
+      conference_name: 'NWAV Asia-Pacific7. Bangkok, Thailand.'
       presentation_type: 'Talk'
 
     
