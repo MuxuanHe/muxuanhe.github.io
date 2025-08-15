@@ -16,6 +16,7 @@ The '_data/settings.yml' defines what modules the website shows.
 
 The `_layouts/home.html` layout defines the home page for this theme. An introduction to your research group or to yourself can be provided.
 The 'index.md' is the content on the home page.
+The '_data/settings.yml' manages what icons show at the bottom of the website.
 
 #### Publications
 
