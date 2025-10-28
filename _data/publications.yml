@@ -16,6 +16,14 @@
     url: 'https://link.springer.com/chapter/10.1007/978-3-031-38318-2_18'}
     
   conference_presentations:
+      - date: '2025'
+      title: 'Revisiting the context-update potential of negation at the level of speaker rationality'
+      # title_url: ''
+      additional_author: 'with Deniz Rudin and Elsi Kaiser'
+      #additional_author_url: ''
+      conference_name: 'SuB 2025. Frankfurt, Germany'
+      presentation_type: '<b>Talk</b>'
+      
     - date: '2025'
       title: 'Communication form modulates sentence interpretation: (A)typicality inferences from descriptions vs. direct speech'
       # title_url: ''
