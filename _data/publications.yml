@@ -16,7 +16,7 @@
     url: 'https://link.springer.com/chapter/10.1007/978-3-031-38318-2_18'}
     
   conference_presentations:
-   - date: '2025'
+    - date: '2025'
       title: 'Revisiting the context-update potential of negation at the level of speaker rationality'
       # title_url: ''
       additional_author: 'with Deniz Rudin and Elsi Kaiser'
