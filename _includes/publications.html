@@ -3,19 +3,20 @@
     <!-- Main Title with Large Heading and Divider -->
     <h3 class="fw-bold border-bottom pb-3 mb-5">Research</h3>
 
-    <!-- Section 1: Specific Interests 
-    <h4 class="mb-4">Specific Interests</h4>
-    {% for item in site.data.publications.specific_interests %}
+<!-- Section 1: Journal Articles -->
+    <h4 class="mb-4">Proceedings (journal articles in the making and submission!)</h4>
+    {% for item in site.data.publications.journal_articles_and_proceedings %}
       <p>
+        {{ item.name }} 
         {% if item.url %}
-          <a href="{{ item.url }}">{{ item.name }}</a>
-        {% else %}
-          {{ item.name }}
+          <a href="{{ item.url }}">{{ item.url }}</a>
         {% endif %}
       </p>
-    {% endfor %} -->
+    {% endfor %}
+  </div>
+</div>
     
-<!-- Section 2: Journal Articles and Proceedings -->
+<!-- Section 2: Proceedings -->
     <h4 class="mb-4">Proceedings (journal articles in the making and submission!)</h4>
     {% for item in site.data.publications.journal_articles_and_proceedings %}
       <p>
