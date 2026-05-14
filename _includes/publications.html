@@ -4,8 +4,8 @@
     <h3 class="fw-bold border-bottom pb-3 mb-5">Research</h3>
 
 <!-- Section 1: Journal Articles -->
-    <h4 class="mb-4">Proceedings (journal articles in the making and submission!)</h4>
-    {% for item in site.data.publications.journal_articles_and_proceedings %}
+    <h4 class="mb-4"> Journal Articles </h4>
+    {% for item in site.data.publications.journal_articles %}
       <p>
         {{ item.name }} 
         {% if item.url %}
@@ -17,8 +17,8 @@
 </div>
     
 <!-- Section 2: Proceedings -->
-    <h4 class="mb-4">Proceedings (journal articles in the making and submission!)</h4>
-    {% for item in site.data.publications.journal_articles_and_proceedings %}
+    <h4 class="mb-4">Selected Proceedings</h4>
+    {% for item in site.data.publications.proceedings %}
       <p>
         {{ item.name }} 
         {% if item.url %}
