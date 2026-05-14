@@ -2,7 +2,11 @@
   specific_interests:
     - {name: ''}
 
-  journal_articles_and_proceedings:
+  journal_articles:
+    - {name: '<b> He, Muxuan </b>, & Elsi Kaiser. 2026. “Just-Right” Is (Not) Always Right: Joint Effects of Typicality and Informativity During Real-Time Sentence Processing <i> Cognitive Science </i>',
+    url: 'https://onlinelibrary.wiley.com/share/author/UVMKHQGZADKHKQUP8DIU?target=10.1111/cogs.70217'}
+    
+  proceedings:
     - {name: '<b> He, Muxuan </b>, & Elsi Kaiser. 2025. “Communication form modulates sentence interpretation: (A)typicality inferences from descriptions vs. direct speech.” Proceedings of the Annual Meeting of the Cognitive Science Society, 47.',
     url: 'https://escholarship.org/uc/item/13h973fw'}
     - {name: '<b> He, Muxuan </b>, Elsi Kaiser, & Khalil Iskarous. 2025. “Modeling sentence polarity asymmetries: Fuzzy interpretations in a possibly wonky world.” To appear in ACL 2025 Proceedings.'}
