@@ -20,7 +20,7 @@ The '_data/settings.yml' manages what icons show at the bottom of the website.
 
 #### Publications
 
-Publications (the content) are defined in the `_data/publications.yml` file, and any PDF files that are served can be placed in the `publications` directory.
+Publications (the content) are defined in the `_data/publications.yml` file, and any PDF files that are served can be placed in the `assets/papers` directory.
 The '_includes/publications.html' defines the aesthetics of the publications page.
 
 #### Courses
